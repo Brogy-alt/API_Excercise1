@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "brand": "Lenovo",
+            "Serial Number":"10045678743",
+            "userName": "Meezaan"
+        },
+        {
+            "id": 2,
+            "brand": "Dell",
+            "Serial Number":"00356722910",
+            "userName":"Joel"
+        },
+        {
+            "id": 3,
+            "brand":"Asus",
+            "Serial Number":"12345678910",
+            "userName":"Brogan"
+        }
+    ]
+}
